@@ -1,8 +1,5 @@
 - 👋 Hi, I’m William Zhang
-- 👀 I’m interested in SaaS, and eCommerce. 
-- 🌱 I’m currently learning digital marketing in SaaS field. 
-- 💞️ I’m looking to collaborate on any frontend / fullstack engineers. 
-- 📫 How to reach me williamwxz@gmail.com
+- 👀 I’m interested in Data Engineering and Blockchain. 
 
 <!---
 williamwxz/williamwxz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
